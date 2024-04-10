@@ -1,3 +1,13 @@
+	// Project Name: Personal Portfolio
+	// Author: Kayode Ademola Festus
+	// Author URL: linkedin.com/kaydeewrld
+	// Support: N/A
+	// Version: 1.1
+  // Programming Language Used: HTML 5, CSS3, BOOTSTRAP 5.2, JAVASCRIPT, PHP AND JSON
+  // DATE: 30/03/2024 - 10/04/2024 
+
+
+
 "use strict";
 (function () {
 	// Global variables
